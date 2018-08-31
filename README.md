@@ -1,6 +1,4 @@
-# python-for-everybody
-
-### assignment of "Python for Everybody Specialization" on Coursera by Professor Charles Severance, University of Michigan.
+# Python for Everybody Specialization on Coursera
 
 ##### Analyzing an EMAIL Archive vizualizing the data using the D3 JavaScript library
 
